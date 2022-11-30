@@ -41,7 +41,7 @@ WhatsApp Bot Multi Device
 | **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 | **Node.js**     | heroku/nodejs|
 
-# Creator Bot
+# Recoder Bot
  [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
 ----|----
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
